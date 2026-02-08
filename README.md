@@ -1,7 +1,7 @@
 # Columbian_Crime_Analysis_2025
 This project covers the Crime analysis of the District of Columbia, data collected from the official online government website of USA (data.gov). The analysis clearly provides the strategic policies and recommendations for the prevention of the crime incidents.
 
-# Objectives:
+## Objectives:
 
 1. Identify high-crime geographic hotspots and dominant offense types.
 2. Analyze temporal crime patterns by hour, day, and shift.
